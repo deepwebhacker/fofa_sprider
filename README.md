@@ -7,7 +7,9 @@
 
 第一步打开fofa官网,如果有会员就进行登录把cookie复制填写到config.py配置文件,没有会员也需要配置,默认不配置cookie 第二步运行fofa_sprider.py脚本即可
 
-1.png 3.png 2.png
+![1.png](/1.png)
+![3.png](/3.png)
+![2.png](/2.png)
 
 #运行环境 python3
 
